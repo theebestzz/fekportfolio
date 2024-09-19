@@ -167,9 +167,9 @@ export default function Home() {
                         {' '}
                         <Link
                            href={DATA.contact.social.Instagram.url}
-                           className="text-blue-500 hover:underline"
+                           className="text-primary hover:underline dark:text-primary-foreground"
                         >
-                           with a direct question on instagram
+                           with a direct question on Instagram
                         </Link>
                         {' '}
                      </p>
