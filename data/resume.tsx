@@ -10,6 +10,7 @@ export const DATA = {
    description:
     'Full-Stack Web & Mobile Developer',
    summary:
+      ''
     + 'Dreaming up ideas and nurturing them to reality, especially in the realm of education, is where my passion lies.\n\n'
     + 'Outside of programming, I have a diverse set of hobbies that include:\n'
     + '- I play football matches\n'
