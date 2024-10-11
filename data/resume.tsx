@@ -184,7 +184,7 @@ export const DATA = {
          dates: '',
          active: true,
          description:
-        'A project I did by watching videos during my early education, but it remained unfinished (Like fake loves, this project remained unfinished...)',
+        'A project I did by watching videos during my early education',
          technologies: [],
          links: [
             {
