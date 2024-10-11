@@ -10,7 +10,7 @@ export const DATA = {
    description:
     'Frontend Developer',
    summary:
-      ''
+      'I have gained knowledge and experience by working with javascript and javascript frameworks for about 5 years. I have knowledge and experience especially in frontend development. I gained knowledge and experience by creating websites using React.js, Next.js, Node.js and Typescript.'
     + 'Dreaming up ideas and nurturing them to reality, especially in the realm of education, is where my passion lies.\n\n'
     + 'Outside of programming, I have a diverse set of hobbies that include:\n'
     + '- I play football matches\n'
