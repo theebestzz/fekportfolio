@@ -180,7 +180,7 @@ export const DATA = {
          video: '',
       },
       {
-         title: 'An unfinished project :(',
+         title: 'Bbqking :(',
          href: 'https://bbqking.vercel.app',
          dates: '',
          active: true,
