@@ -4,9 +4,9 @@ import { Icons } from '../components/icons'
 export const DATA = {
    name: 'Fatih Emin',
    initials: 'DV',
-   url: 'https://nyxb.nexus',
-   location: 'Miami, FL',
-   locationLink: 'https://www.google.com/maps/place/miami',
+   url: 'https://portfolio.feksoftware.com.tr',
+   location: 'Kayseri, Türkiye',
+   locationLink: '',
    description:
     'Full-Stack Web & Mobile Developer',
    summary:
