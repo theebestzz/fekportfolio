@@ -8,7 +8,7 @@ export const DATA = {
    location: 'Kayseri, Türkiye',
    locationLink: '',
    description:
-    'Full-Stack Web & Mobile Developer',
+    'Frontend Developer',
    summary:
       ''
     + 'Dreaming up ideas and nurturing them to reality, especially in the realm of education, is where my passion lies.\n\n'
